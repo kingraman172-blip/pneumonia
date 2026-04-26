@@ -1,2 +1,2 @@
 # pneumonia
-cnn
+cnn project for pneumonia lungs
